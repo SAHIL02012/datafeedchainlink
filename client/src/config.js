@@ -1,0 +1,1 @@
+export const ChainlinkContractAddress = "0x9bF4E75c9CBf5F2448a2c47DDb0d5aF6f2852741"
